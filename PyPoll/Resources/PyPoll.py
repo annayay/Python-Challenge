@@ -2,7 +2,7 @@ import csv
 import os
 
 # Specify the path to the CSV file
-file_to_load = "C:\\Users\\ayayloyan\\OneDrive - SourceAmerica\\Documents\\GitHub\\Python-Challenge\\PyPoll\\Resources\\election_data.csv"
+file_to_load = "PyPoll\\Resources\\election_data.csv"
 
 # Initialize variables
 total_votes = 0
